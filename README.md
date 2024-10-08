@@ -1,8 +1,8 @@
-# Selenium Script Usage Instructions
+# Selenium Script Usage Instructions 
 
 ## Prerequisites
 
-- **Python 3.x** installed on your system.
+- **Python 3.x** installed on your system. 
 - **Google Chrome** browser installed. (Modify the script if using a different browser)
 - **Chrome WebDriver** compatible with your Chrome version.
 
