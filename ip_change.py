@@ -6,7 +6,6 @@ import random
 import requests
 from selenium.webdriver.support.ui import Select
 from datetime import datetime
-
 import pandas as pd
 import json
 
